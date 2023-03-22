@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, I'm Erick Chavez 👋
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning about projects of data science and machine learning
+- 😄 Pronouns: Erick
+- ⚡ Fun fact: I don't know how to ride a bike 🤔
 <!--
 **ErickChavezUruri/ErickChavezUruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
